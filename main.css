@@ -1,0 +1,73 @@
+.header {
+  border-bottom: 1px solid black;
+}
+
+.carusel-inner img {
+  height: 300px;
+}
+
+#carouselExampleIndicators {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid black;
+}
+
+.carousel-inner {
+  height: 360px;
+}
+.card {
+  margin-top: 30px;
+}
+
+.text-center {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.box {
+  display: inline;
+}
+
+.container ul li a {
+  color: black;
+}
+
+.row {
+  margin-bottom: 50px;
+}
+
+.pic {
+  border-radius: 8px;
+}
+
+.qstns {
+  border-top: 1px solid black;
+}
+
+#faq {
+  margin-top: 30px;
+}
+
+.apply {
+  border-bottom: 1px solid black;
+}
+
+.btn {
+  margin-bottom: 20px;
+}
+
+h4 {
+  text-align: center;
+}
+
+
+.rowBrdr {
+  border-bottom: 1px solid black;
+}
+
+.rowBrdrT {
+  border-top: 1px solid black;
+  margin-bottom: 20px;
+  padding-top: 20px;
+}
